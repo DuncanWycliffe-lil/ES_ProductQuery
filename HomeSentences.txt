@@ -1,0 +1,15 @@
+I have a 2700 square foot home with 3 floors.
+The First Floor is 1200 square feet and has 7 rooms.
+The Kitchen is on the First Floor and is 400 square feet.
+The Kitchen has 2 products in it.
+The Kitchen has a GE Stainless Steel Refrigerator.
+The GE Stainless Steel Refrigerator is 72 inches tall, 48 inches wide and 36 inches deep.
+The Kitchen has BrandName Granite Counter Tops.
+The Office is on the First Floor and is 360 square feet.
+The Office has 1 product in it.
+The Office has an Allen + Roth Desk.
+The Basement is 500 square feet and has 4 rooms.
+The Second Floor is 1000 square feet and has 5 rooms.
+The Primary Bedroom is on the Second Floor and is 450 square feet.
+The Primary Bedroom has 1 product in it.
+The Primary Bedroom has a BedBrand King Bed.
